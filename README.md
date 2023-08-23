@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+<!---
+intancote/intancote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <h4>Status (Maybe adding more later)</h4>
 <a href="https://discord.com/users/416968141869154304">
     <img src="https://discord.c99.nl/widget/theme-4/416968141869154304.png"
@@ -192,6 +195,3 @@ Lua                      1 repo              █░░░░░░░░░░�
     <img src="https://komarev.com/ghpvc/?username=Intancote&color=blueviolet&style=flat-square" />
   </a>
 </p>
-=======
-
->>>>>>> e7d02de3962ac66a4ef348fe101fbc1c79c92840
