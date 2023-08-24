@@ -25,6 +25,34 @@ You can click the Preview link to take a look at your changes.
         <img src="https://skillicons.dev/icons?i=py" alt="Python">
     </a>
 
+<h4>Tools</h4>
+    <a href="https://www.cloudflare.com/">
+        <img src="https://skillicons.dev/icons?i=cf" alt="Cloudflare">
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" alt="git">
+    </a>
+    <a href="https://github.com/Intancote/">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+    </a>
+    <a href="https://haxeflixel.com/">
+        <img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel">
+    </a>
+    <a href="https://www.adobe.com/products/photoshop.html">
+        <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop">
+    </a>
+    <a href="https://github.com/microsoft/vscode">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
+    </a>
+
+<h4>Socials</h4>
+    <a href="https://discord.com">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+    </a>
+    <a href="https://twitter.com/Real_Intancote">
+        <img src="https://skillicons.dev/icons?i=twitter" alt='Twitter (Also known as "X")'>
+    </a>
+
 <h4>Future Languages</h4>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://skillicons.dev/icons?i=cs" alt="C#">
@@ -51,26 +79,6 @@ You can click the Preview link to take a look at your changes.
         <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
     </a>
 
-<h4>Tools</h4>
-    <a href="https://www.cloudflare.com/">
-        <img src="https://skillicons.dev/icons?i=cf" alt="Cloudflare">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" alt="git">
-    </a>
-    <a href="https://github.com/Intancote/">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-    </a>
-    <a href="https://haxeflixel.com/">
-        <img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel">
-    </a>
-    <a href="https://www.adobe.com/products/photoshop.html">
-        <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop">
-    </a>
-    <a href="https://github.com/microsoft/vscode">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-    </a>
-
 <h4>Future Tools</h4>
     <a href="https://developer.android.com/studio">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
@@ -86,14 +94,6 @@ You can click the Preview link to take a look at your changes.
     </a>
     <a href="https://www.unrealengine.com/">
         <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine">
-    </a>
-
-<h4>Socials</h4>
-    <a href="https://discord.com">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
-    </a>
-    <a href="https://twitter.com/Real_Intancote">
-        <img src="https://skillicons.dev/icons?i=twitter" alt='Twitter (Also known as "X")'>
     </a>
 
 <h4>Future Socials</h4>
