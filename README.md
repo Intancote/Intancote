@@ -159,7 +159,8 @@ You can click the Preview link to take a look at your changes.
     The original template of this profile README and helped fixing some integrations and other stuff
     <h4></h4>
     <img src="https://komarev.com/ghpvc/?username=h4rldev&color=blueviolet&style=flat-square"/>
+    <h4></h4>
     <a href="https://github.com/h4rldev">
-        <h4 align="left">Link to his profile</h4>
+        <txt align="left">Link to his profile</txt>
     </a>
 </details>
