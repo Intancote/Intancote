@@ -2,11 +2,13 @@
 intancote/intancote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h4>Status (Maybe adding more later)</h4>
+<h1>Status (Maybe adding more later)</h1>
 <a href="https://discord.com/users/416968141869154304">
     <img src="https://discord.c99.nl/widget/theme-4/416968141869154304.png"
     alt="Discord: intancote">
 </a>
+
+<h2>Current Stuff</h2>
 
 <h4>Languages</h4>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
@@ -52,6 +54,8 @@ You can click the Preview link to take a look at your changes.
     <a href="https://twitter.com/Real_Intancote">
         <img src="https://skillicons.dev/icons?i=twitter" alt='Twitter (Also known as "X")'>
     </a>
+
+<h2>Future Stuff</h2>
 
 <h4>Future Languages</h4>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
@@ -102,13 +106,12 @@ You can click the Preview link to take a look at your changes.
     </a>
 
 <hr>
-<h4>Data and misc.</h4>
+
+<h3>Data and misc.</h3>
 <details>
     <summary>Wakatime</summary>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 </details>
 
 <details>
