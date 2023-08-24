@@ -1,9 +1,7 @@
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '0 * * * *'
+  schedule: [{cron: "0 * * * *"}]
   # for manual workflow trigger
   workflow_dispatch:
   push: {branches: ["master", "main"]}

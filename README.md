@@ -2,7 +2,7 @@
 intancote/intancote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Status (Maybe adding more later)</h1>
+<h2>Statuses (Maybe adding more later)</h2>
 <a href="https://discord.com/users/416968141869154304">
     <img src="https://discord.c99.nl/widget/theme-4/416968141869154304.png"
     alt="Discord: intancote">
@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Future Stuff</h2>
 
-<h4>Future Languages</h4>
+<h4>Languages</h4>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://skillicons.dev/icons?i=cs" alt="C#">
     </a>
@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
     </a>
 
-<h4>Future Tools</h4>
+<h4>Tools</h4>
     <a href="https://developer.android.com/studio">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
     </a>
@@ -100,30 +100,31 @@ You can click the Preview link to take a look at your changes.
         <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine">
     </a>
 
-<h4>Future Socials</h4>
+<h4>Socials</h4>
     <a href="https://www.linkedin.com/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
     </a>
 
-<hr>
+<hr></hr>
 
 <h3>Data and misc.</h3>
-<details>
-    <summary>Wakatime</summary>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</details>
 
 <details>
     <summary>GitHub Metrics</summary>
     <img src= "./github-metrics.svg">
 </details>
 
-<hr>
+<details>
+    <summary>Wakatime (Currently not working)</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
 
-<h2 align="center">
+<hr></hr>
+
+<h3 align="center">
     <a href=https://octo-ring.com/p/Intancote/random>
-           random
+            random
     </a>
     <br>
     <a href="https://octo-ring.com/p/Intancote/prev">
@@ -138,11 +139,27 @@ You can click the Preview link to take a look at your changes.
     </a>
     <br>
     <a href="https://octo-ring/register">
-           register
+            register
     </a>
-</h2>
-<p align="center">
-  <a href="https://github.com/Intancote">
-    <img src="https://komarev.com/ghpvc/?username=Intancote&color=blueviolet&style=flat-square" />
-  </a>
-</p>
+</h3>
+
+<hr></hr>
+
+<h2 align="left">Profile Contributors</h3>
+
+<details>
+    <summary><h4 align="left">Intancote (Myself)</h4></summary>
+    Did "most" of the work
+    <h4></h4>
+    <img src="https://komarev.com/ghpvc/?username=Intancote&color=blueviolet&style=flat-square"/>
+</details>
+
+<details>
+    <summary><h4 align="left">h4rldev</h4></summary>
+    The original template of this profile README and helped fixing some integrations and other stuff
+    <h4></h4>
+    <img src="https://komarev.com/ghpvc/?username=h4rldev&color=blueviolet&style=flat-square"/>
+    <a href="https://github.com/h4rldev">
+        <h4 align="left">Link to his profile</h4>
+    </a>
+</details>
