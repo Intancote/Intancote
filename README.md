@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-    <summary>Wakatime (Currently not working)</summary>
+    <summary>Wakatime</summary>
 <!--START_SECTION:waka-->
 
 ```haxe
