@@ -119,15 +119,17 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```haxe
-From: 23 August 2023 - To: 25 August 2023
+From: 23 August 2023 - To: 26 August 2023
 
-Total Time: 1 hr 37 mins
+Total Time: 2 hrs 33 mins
 
-Markdown   1 hr 26 mins    ██████████████████████▒░░   89.65 %
-YAML       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Ezhil      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Haxe       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown   1 hr 26 mins    ██████████████▒░░░░░░░░░░   56.80 %
+Lua        55 mins         █████████░░░░░░░░░░░░░░░░   36.51 %
+YAML       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Ezhil      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Haxe       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
