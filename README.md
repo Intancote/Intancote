@@ -112,12 +112,14 @@ You can click the Preview link to take a look at your changes.
 <details>
     <summary>Github Stats</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=Intancote&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Intancote's+GitHub+Stats&show_icons=true&number_format=long&include_all_commits=true&theme=tokyonight&bg_color=000000#gh-dark-mode-only" alt="Github Stats (Dark)">
-    <img src="https://github-readme-stats.vercel.app/api?username=Intancote&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Intancote's+GitHub+Stats&show_icons=true&number_format=long&include_all_commits=true&theme=buefy&bg_color=FFFFFF#gh-light-mode-only" alt="Github Stats (Light)">
+    <img src="https://github-readme-stats.vercel.app/api?username=Intancote&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Intancote's+GitHub+Stats&show_icons=true&number_format=long&include_all_commits=true&theme=tokyonight&bg_color=FFFFFF#gh-light-mode-only" alt="Github Stats (Light)">
     <h4></h4>
+    <FONT COLOR="#AAAAAA">
     <details>
-    <summary><FONT COLOR="#AAAAAA">Advanced Stats</FONT COLOR></summary>
+    <summary>Advanced Stats</summary>
     <img src= "./github-metrics.svg">
     </details>
+    </FONT COLOR>
 </details>
 
 <details>
