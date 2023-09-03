@@ -110,8 +110,14 @@ You can click the Preview link to take a look at your changes.
 <h3>Data and misc.</h3>
 
 <details>
-    <summary>GitHub Metrics</summary>
+    <summary>Github Stats</summary>
+    [![Anurag's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=Intancote&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Intancotes_GitHub_Stats&show_icons=true&number_format=long&include_all_commits=true&theme=tokyonight&bg_color=00000000#gh-dark-mode-only)](https://github.com/Intancote/Intancote#responsive-card-theme#gh-dark-mode-only)
+    [![Anurag's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=Intancote&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&number_format=long&include_all_commits=true&theme=tokyonight&bg_color=00000000#gh-light-mode-only)](https://github.com/Intancote/Intancote#responsive-card-theme#gh-light-mode-only)
+    <h4></h4>
+    <details>
+    <summary><FONT COLOR="#C8C8C8">Advanced Stats</FONT COLOR></summary>
     <img src= "./github-metrics.svg">
+    </details>
 </details>
 
 <details>
