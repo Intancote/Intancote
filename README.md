@@ -113,12 +113,10 @@ You can click the Preview link to take a look at your changes.
     <summary>Github Stats</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=Intancote&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Intancote's+GitHub+Stats&show_icons=true&number_format=long&include_all_commits=true&theme=tokyonight&bg_color=00000000" alt="Github Stats">
     <h4></h4>
-    <span style="color: gray;">
     <details>
-    <summary>Advanced Stats</summary>
+    <summary>$${\color{red}Advanced Stats}$$</summary>
     <img src= "./github-metrics.svg">
     </details>
-    </span>
 </details>
 
 <details>
