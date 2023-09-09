@@ -124,19 +124,22 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```haxe
-From: 23 August 2023 - To: 08 September 2023
+From: 23 August 2023 - To: 09 September 2023
 
-Total Time: 5 hrs 24 mins
+Total Time: 6 hrs 56 mins
 
-Markdown   3 hrs 15 mins   ███████████████░░░░░░░░░░   60.22 %
-Lua        1 hr 8 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-HTML       37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-YAML       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-XML        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-CSS        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Ezhil      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Haxe       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown     3 hrs 19 mins   ████████████░░░░░░░░░░░░░   47.40 %
+Lua          1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+HTML         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Text         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+XML          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Rust         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Haxe         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Ezhil        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+YAML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Assembly     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
