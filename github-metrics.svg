@@ -2782,7 +2782,7 @@ Icon workaround fix on Linux</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.14m out of 120m users</span>
+                                    <span class="gh">ranked 7.14m out of 119m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -2979,7 +2979,7 @@ Icon workaround fix on Linux</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.77m out of 120m users</span>
+                                    <span class="gh">ranked 1.77m out of 119m users</span>
                                 </div>
                                 <div class="text">Followed by 7 users</div>
                             </div>
@@ -3053,7 +3053,7 @@ Icon workaround fix on Linux</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.91m out of 56.3m repositories</span>
+                                    <span class="gh">ranked 1.91m out of 43.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3170,7 +3170,7 @@ Icon workaround fix on Linux</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Sept 2023, 13:05:35 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Sept 2023, 14:12:39 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
