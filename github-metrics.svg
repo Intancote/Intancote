@@ -2348,7 +2348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alex313031/Thorium-Win-AVX2</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repo to serve AVX2 Windows builds of Thorium. https://github.com/Alex313031/Thorium/</div>
@@ -2401,7 +2401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alex313031/Mercury</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.</div>
@@ -2719,7 +2719,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.16m out of 120m users</span>
+                                    <span class="gh">ranked 7.16m out of 116m users</span>
                                 </div>
                                 <div class="text">Published 8 public repositories</div>
                             </div>
@@ -2952,7 +2952,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.78m out of 120m users</span>
+                                    <span class="gh">ranked 1.78m out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 7 users</div>
                             </div>
@@ -2990,7 +2990,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.87m out of 61.5m repositories</span>
+                                    <span class="gh">ranked 1.91m out of 63.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3107,7 +3107,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Sept 2023, 22:07:43 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Sept 2023, 23:05:24 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
