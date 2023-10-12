@@ -2363,7 +2363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>refined-github/refined-github</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3163,7 +3163,7 @@ Client: Small bugfixes, refactor &amp; clean up code</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.91m out of 54m repositories</span>
+                                    <span class="gh">ranked 1.89m out of 64.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3280,7 +3280,7 @@ Client: Small bugfixes, refactor &amp; clean up code</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Oct 2023, 08:09:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Oct 2023, 09:07:25 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
