@@ -124,7 +124,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```haxe
-From: 23 August 2023 - To: 12 October 2023
+From: 23 August 2023 - To: 13 October 2023
 
 Total Time: 17 hrs 48 mins
 
