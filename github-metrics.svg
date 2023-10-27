@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheUsefulLists/UsefulMods</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Just a list of useful mods</div>
@@ -2415,7 +2415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>h4rldev/eula</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">changes the third line of a file called eula.txt in current directory</div>
@@ -3082,7 +3082,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.94m out of 93.5m repositories</span>
+                                    <span class="gh">ranked 1.94m out of 86.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3199,7 +3199,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2023, 19:03:48 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Oct 2023, 20:08:56 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
