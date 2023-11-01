@@ -22,7 +22,8 @@ jobs:
           CODE_LANG: haxe
           TIME_RANGE: all_time
           LANG_COUNT: 42069
-          SHOW_TIME: true
+          SHOW_TIME: true # useless rn, but keep just incase
+          SHOW_MASKED_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: false
           ### commit
