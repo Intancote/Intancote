@@ -3,10 +3,16 @@ intancote/intancote is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h2>Statuses (Maybe adding more later)</h2>
+
 <a href="https://discord.com/users/416968141869154304">
     <img src="https://discord.c99.nl/widget/theme-4/416968141869154304.png"
     alt="Discord: intancote">
 </a>
+<br></br>
+<a href="https://www.last.fm/user/intancote">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=intancote&count=1" alt="last.fm" />
+</a>
+Funny last.fm shiz
 
 <h2>Current Stuff</h2>
 
@@ -14,14 +20,23 @@ You can click the Preview link to take a look at your changes.
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
         <img src="https://skillicons.dev/icons?i=bash" alt="bash">
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+    </a>
     <a href="https://haxe.org/">
         <img src="https://skillicons.dev/icons?i=haxe" alt="Haxe">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
     <a href="https://www.lua.org/">
         <img src="https://skillicons.dev/icons?i=lua" alt="Lua">
     </a>
     <a href="https://en.wikipedia.org/wiki/Markdown">
         <img src="https://skillicons.dev/icons?i=md" alt="Markdown">
+    </a>
+    <a href="https://learn.microsoft.com/en-us/powershell/">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="Powershell">
     </a>
     <a href="https://www.python.org/">
         <img src="https://skillicons.dev/icons?i=py" alt="Python">
@@ -37,6 +52,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/Intancote/">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
     </a>
+    <a href="https://github.com/features/actions">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions">
+    </a>
     <a href="https://haxeflixel.com/">
         <img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel">
     </a>
@@ -48,8 +66,11 @@ You can click the Preview link to take a look at your changes.
     </a>
 
 <h4>Socials</h4>
-    <a href="https://discord.com">
+    <a href="<https://discord.com/users/416968141869154304>">
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+    </a>
+    <a href="https://www.linkedin.com/in/sepand-sadraei-javahery/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/Real_Intancote">
         <img src="https://skillicons.dev/icons?i=twitter" alt='Twitter (Also known as "X")'>
@@ -58,14 +79,17 @@ You can click the Preview link to take a look at your changes.
 <h2>Future Stuff</h2>
 
 <h4>Languages</h4>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://skillicons.dev/icons?i=cs" alt="C#">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+    <a href="https://cplusplus.com">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+    <a href="https://go.dev/">
+        <img src="https://skillicons.dev/icons?i=go" alt="go" />
     </a>
     <a href="https://java.com">
         <img src="https://skillicons.dev/icons?i=java" alt="Java">
@@ -87,23 +111,27 @@ You can click the Preview link to take a look at your changes.
     <a href="https://developer.android.com/studio">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
     </a>
-    <a href="https://codepen.io/">
-        <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen">
-    </a>
     <a href="https://www.blender.org/">
         <img src="https://skillicons.dev/icons?i=blender" alt="Blender">
     </a>
+    <a href="https://codepen.io/">
+        <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen">
+    </a>
+    <a href="https://godotengine.org/">
+        <img src="https://skillicons.dev/icons?i=godot" alt="Godot">
+    </a>
     <a href="https://www.linuxfoundation.org/">
         <img src="https://skillicons.dev/icons?i=linux" alt="linux">
+    </a>
+    <a href="https://www.adobe.com/products/premiere.html">
+        <img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro">
     </a>
     <a href="https://www.unrealengine.com/">
         <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine">
     </a>
 
 <h4>Socials</h4>
-    <a href="https://www.linkedin.com/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-    </a>
+None at the moment
 
 <hr></hr>
 
@@ -114,7 +142,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-stats.vercel.app/api?username=Intancote&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Intancote's+GitHub+Stats&show_icons=true&number_format=long&include_all_commits=true&theme=tokyonight&bg_color=00000000" alt="Github Stats">
     <h4></h4>
     <details>
-        <summary>Advanced Stats</summary>
+        <summary>Advanced Stats (Github Metrics)</summary>
             <img src= "./github-metrics.svg">
     </details>
 </details>
@@ -179,14 +207,14 @@ Nix              11 mins         ▒░░░░░░░░░░░░░░�
     <summary><h4 align="left">Intancote (Myself)</h4></summary>
     Did "most" of the work
     <h4></h4>
-    <img src="https://komarev.com/ghpvc/?username=Intancote&color=blueviolet&style=flat-square"/>
+    <img src="https://komarev.com/ghpvc/?username=Intancote&color=404eed&style=flat-square"/>
 </details>
 
 <details>
     <summary><h4 align="left">h4rldev</h4></summary>
     The original template of this profile README and helped fixing some integrations and other stuff
     <h4></h4>
-    <img src="https://komarev.com/ghpvc/?username=h4rldev&color=blueviolet&style=flat-square"/>
+    <img src="https://komarev.com/ghpvc/?username=h4rldev&color=404eed&style=flat-square"/>
     <h4></h4>
     <a href="https://github.com/h4rldev">
         <txt align="left">Link to his profile</txt>
