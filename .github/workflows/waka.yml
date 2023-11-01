@@ -24,6 +24,6 @@ jobs:
           LANG_COUNT: 42069
           SHOW_TIME: true
           SHOW_TOTAL: true
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           ### commit
           AUTHOR_NAME: Intancote
