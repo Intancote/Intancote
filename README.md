@@ -154,7 +154,7 @@ None at the moment
 ```haxe
 From: 23 August 2023 - To: 31 October 2023
 
-Total Time: 25 hrs 48 mins
+Total Time: 25 hrs 55 mins
 
 Python           5 hrs 46 mins   >>>>>=-------------------   22.30 %
 CSS              4 hrs 21 mins   >>>>---------------------   16.83 %
