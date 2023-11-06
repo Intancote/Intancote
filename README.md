@@ -2,19 +2,14 @@
 intancote/intancote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>Statuses (Maybe adding more later)</h2>
+## Statuses (Maybe adding more later)
 
-<a href="https://discord.com/users/416968141869154304">
-    <img src="https://discord.c99.nl/widget/theme-4/416968141869154304.png"
-    alt="Discord: intancote">
-</a>
-<br></br>
-<a href="https://www.last.fm/user/intancote">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=intancote&count=1" alt="last.fm" />
-</a>
+[![Discord: intancote](https://discord.c99.nl/widget/theme-4/416968141869154304.png)](https://discord.com/users/416968141869154304)
+
+[![last.fm](https://lastfm-recently-played.vercel.app/api?user=intancote&count=1)](https://www.last.fm/user/intancote)
 Funny last.fm shiz
 
-<h2>Current Stuff</h2>
+## Current Stuff
 
 <h4>Languages</h4>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
