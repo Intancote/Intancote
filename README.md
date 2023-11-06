@@ -133,7 +133,7 @@ Funny last.fm shiz
 <h4>Socials</h4>
 None at the moment
 
-<hr></hr>
+---
 
 <h3>Data and misc.</h3>
 
@@ -185,7 +185,7 @@ ActionScript 3   1 min           -------------------------   00.09 %
 <!--END_SECTION:waka-->
 </details>
 
-<hr></hr>
+---
 
 <h3 align="center">
     <a href=https://octo-ring.com/p/Intancote/random>
@@ -208,7 +208,7 @@ ActionScript 3   1 min           -------------------------   00.09 %
     </a>
 </h3>
 
-<hr></hr>
+---
 
 <h2 align="left">Profile Contributors</h3>
 
