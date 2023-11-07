@@ -2868,7 +2868,7 @@ I'll wait until that's finished and remake this when that's done. Wanted to actu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.93m out of 125m users</span>
+                                    <span class="gh">ranked 5.94m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 10 public repositories</div>
                             </div>
@@ -3103,7 +3103,7 @@ I'll wait until that's finished and remake this when that's done. Wanted to actu
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.94m out of 80.2m repositories</span>
+                                    <span class="gh">ranked 1.94m out of 92.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3250,7 +3250,7 @@ I'll wait until that's finished and remake this when that's done. Wanted to actu
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Nov 2023, 05:08:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 7 Nov 2023, 06:07:22 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
