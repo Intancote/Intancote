@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheUsefulLists/UsefulMods</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Just a list of useful mods</div>
@@ -3082,7 +3082,7 @@ this is gonna take awhile lmao</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.96m out of 70.3m repositories</span>
+                                    <span class="gh">ranked 1.96m out of 57m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3229,7 +3229,7 @@ this is gonna take awhile lmao</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2023, 15:05:08 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Nov 2023, 16:06:19 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
