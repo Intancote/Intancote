@@ -2358,7 +2358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheMulhima/Lumafly</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Nov 20 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross platform mod manager for Hollow Knight written in Avalonia.</div>
@@ -3131,7 +3131,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.98m out of 59.5m repositories</span>
+                                    <span class="gh">ranked 1.98m out of 55.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3210,7 +3210,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.10m out of 59.5m repositories</span>
+                                    <span class="gh">ranked 5.04m out of 55.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3292,7 +3292,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2023, 10:06:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Dec 2023, 11:06:47 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
