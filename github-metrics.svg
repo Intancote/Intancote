@@ -2392,7 +2392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>goop-studios/www</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Goop Studios website</div>
@@ -3170,7 +3170,7 @@ Also removed one Astro audit problem from Nav.svelte (just added a "aria-label" 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.58m out of 91.5m repositories</span>
+                                    <span class="gh">ranked 1.58m out of 72.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 13 stars</div>
                             </div>
@@ -3249,7 +3249,7 @@ Also removed one Astro audit problem from Nav.svelte (just added a "aria-label" 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.16m out of 91.5m repositories</span>
+                                    <span class="gh">ranked 5.16m out of 72.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3331,7 +3331,7 @@ Also removed one Astro audit problem from Nav.svelte (just added a "aria-label" 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Mar 2024, 10:27:08 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Mar 2024, 12:19:29 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
