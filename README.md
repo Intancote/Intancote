@@ -2,6 +2,7 @@
 intancote/intancote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 ## Statuses (Maybe adding more later)
 
 [![Discord: intancote](https://discord.c99.nl/widget/theme-4/416968141869154304.png)](https://discord.com/users/416968141869154304)
@@ -25,6 +26,9 @@ Funny last.fm shiz
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    </a>
     <a href="https://www.lua.org/">
         <img src="https://skillicons.dev/icons?i=lua" alt="Lua">
     </a>
@@ -39,6 +43,12 @@ Funny last.fm shiz
     </a>
 
 <h4>Tools</h4>
+    <a href="https://www.adobe.com/products/illustrator.html">
+        <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator">
+    </a>
+    <a href="https://bun.sh/">
+        <img src="https://skillicons.dev/icons?i=bun" alt="Bun">
+    </a>
     <a href="https://www.cloudflare.com/">
         <img src="https://skillicons.dev/icons?i=cf" alt="Cloudflare">
     </a>
@@ -51,18 +61,27 @@ Funny last.fm shiz
     <a href="https://github.com/features/actions">
         <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions">
     </a>
+    <a href="https://mail.google.com/">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+    </a>
     <a href="https://haxeflixel.com/">
         <img src="https://skillicons.dev/icons?i=haxeflixel" alt="HaxeFlixel">
     </a>
     <a href="https://www.adobe.com/products/photoshop.html">
         <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop">
     </a>
+    <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
+    </a>
     <a href="https://github.com/microsoft/vscode">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
     </a>
+    <a href="https://www.microsoft.com/en-us/windows/">
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows">
+    </a>
 
 <h4>Socials</h4>
-    <a href="<https://discord.com/users/416968141869154304>">
+    <a href="https://discord.com/users/416968141869154304">
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
     </a>
     <a href="https://www.linkedin.com/in/sepand-sadraei-javahery/">
@@ -90,12 +109,6 @@ Funny last.fm shiz
     <a href="https://java.com">
         <img src="https://skillicons.dev/icons?i=java" alt="Java">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
-    </a>
-    <a href="https://nodejs.org/">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="node.js">
-    </a>
     <a href="https://www.rust-lang.org/">
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust">
     </a>
@@ -113,11 +126,17 @@ Funny last.fm shiz
     <a href="https://codepen.io/">
         <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen">
     </a>
+    <a href="https://www.figma.com/">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
+    </a>
     <a href="https://godotengine.org/">
         <img src="https://skillicons.dev/icons?i=godot" alt="Godot">
     </a>
     <a href="https://www.linuxfoundation.org/">
         <img src="https://skillicons.dev/icons?i=linux" alt="linux">
+    </a>
+    <a href="https://nodejs.org/">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="node.js">
     </a>
     <a href="https://www.adobe.com/products/premiere.html">
         <img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro">
@@ -139,7 +158,7 @@ None at the moment
     <h4></h4>
     <details>
         <summary>Advanced Stats (Github Metrics)</summary>
-            <img src= "./github-metrics.svg">
+            <img src= "./github-metrics.svg" alt="My Github Metrics">
     </details>
 </details>
 
@@ -216,22 +235,25 @@ Git              0 secs          -------------------------   00.00 %
 
 ---
 
-<h2 align="left">Profile Contributors</h3>
+<h2 align="left">Profile Contributors</h2>
 
-<details>
-    <summary><h4 align="left">Intancote (Myself)</h4></summary>
-    Did "most" of the work
-    <h4></h4>
-    <img src="https://komarev.com/ghpvc/?username=Intancote&color=404eed&style=flat-square"/>
-</details>
+* **Intancote (Myself)**
+    * Did "most" of the work
 
-<details>
-    <summary><h4 align="left">h4rldev</h4></summary>
-    The original template of this profile README and helped fixing some integrations and other stuff
-    <h4></h4>
-    <img src="https://komarev.com/ghpvc/?username=h4rldev&color=404eed&style=flat-square"/>
-    <h4></h4>
+* **h4rldev**
     <a href="https://github.com/h4rldev">
-        <txt align="left">Link to his profile</txt>
+        <img src="https://komarev.com/ghpvc/?username=h4rldev&color=404eed&style=flat-square"/>
     </a>
-</details>
+    * The original template of this profile README and helped fixing some integrations and other stuff
+
+<br>
+
+### Quick Info:
+
+<a href="https://github.com/Intancote">
+    <img src="https://komarev.com/ghpvc/?username=Intancote&color=404eed&style=flat-square"/>
+</a>
+
+<a href="https://wakatime.com/@36e9bae9-611b-48d9-bdac-592592cefa3a">
+    <img src="https://wakatime.com/badge/user/36e9bae9-611b-48d9-bdac-592592cefa3a.svg?style=flat-square" alt="Total time coded since Aug 24 2023"/>
+</a>
