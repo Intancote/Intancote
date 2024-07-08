@@ -6,8 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Discord: intancote](https://discord.c99.nl/widget/theme-4/416968141869154304.png)](https://discord.com/users/416968141869154304)
 
-[![last.fm](https://lastfm-recently-played.vercel.app/api?user=intancote&count=1)](https://www.last.fm/user/intancote)
+<!--[![last.fm](https://lastfm-recently-played.vercel.app/api?user=intancote&count=1)](https://www.last.fm/user/intancote)
 Funny last.fm shiz
+--->
 
 ## Current Stuff
 
