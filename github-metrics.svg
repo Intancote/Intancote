@@ -2461,7 +2461,7 @@
                                         <span>starred 21 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Eponymous software for reading osu! memory (allows you to make stream/tournament/in-game overlays), accounting for most of gosumemory's issues (not exactly).</div>
+                                <div class="field description">Eponymous software for reading osu! memory (allows you to make stream/tournament/in-game overlays), accounting for most of gosumemory's issues (not exactly). Supports windows/linux!</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3332,7 +3332,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Sept 2024, 10:13:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Sept 2024, 11:11:03 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
