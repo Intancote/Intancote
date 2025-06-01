@@ -167,7 +167,7 @@ None at the moment
 <!--START_SECTION:waka-->
 
 ```haxe
-From: 23 August 2023 - To: 31 May 2025
+From: 23 August 2023 - To: 01 June 2025
 
 Total Time: 112 hrs 5 mins
 
