@@ -167,17 +167,17 @@ None at the moment
 <!--START_SECTION:waka-->
 
 ```haxe
-From: 23 August 2023 - To: 04 April 2026
+From: 23 August 2023 - To: 05 April 2026
 
-Total Time: 146 hrs 12 mins
+Total Time: 146 hrs 20 mins
 
-CSS                                23 hrs 48 mins        >>>>---------------------   16.28 %
-Haxe                               19 hrs 49 mins        >>>=---------------------   13.56 %
-C#                                 17 hrs 55 mins        >>>----------------------   12.26 %
-HTML                               17 hrs 37 mins        >>>----------------------   12.06 %
-Markdown                           14 hrs 3 mins         >>=----------------------   09.62 %
-Python                             11 hrs 34 mins        >>-----------------------   07.91 %
-Bash                               9 hrs 47 mins         >=-----------------------   06.70 %
+CSS                                23 hrs 48 mins        >>>>---------------------   16.26 %
+Haxe                               19 hrs 49 mins        >>>=---------------------   13.55 %
+C#                                 17 hrs 55 mins        >>>----------------------   12.25 %
+HTML                               17 hrs 37 mins        >>>----------------------   12.05 %
+Markdown                           14 hrs 3 mins         >>=----------------------   09.61 %
+Python                             11 hrs 42 mins        >>-----------------------   08.00 %
+Bash                               9 hrs 47 mins         >=-----------------------   06.69 %
 JavaScript                         5 hrs 31 mins         >------------------------   03.78 %
 C                                  3 hrs 56 mins         =------------------------   02.69 %
 YAML                               2 hrs 51 mins         =------------------------   01.95 %
