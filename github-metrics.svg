@@ -2367,7 +2367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>100thCoin/AccuracyCoin</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A large collection of NES accuracy tests on a single NROM cartridge.</div>
@@ -2665,7 +2665,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Apr 2026, 21:17:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Apr 2026, 22:57:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
